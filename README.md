@@ -21,12 +21,15 @@ I dont check my twitter feed regularly. Which means i might miss on all the inte
 
 **Screenshots**
 1. The first screen that appears after the application is installed on your android device as shown below 
-<img src="/screen1.png" alt="Screen 1" width="100" height="100"> 
+<img src="/screen1.png" alt="Screen 1" width="250" height="250"> 
 
-2. After clicking on the login button you'll be redirected to this screen ![Screen 2](/screen2.png | width=100)
+2. After clicking on the login button you'll be redirected to this screen 
+<img src="/screen2.png" alt="Screen 2" width="250" height="250"> 
 
-3. Click on the Connect button so that it authenicates as shown ![Screen 3](/screen3.png)
+3. Click on the Connect button so that it authenicates as shown <img src="/screen3.png" alt="Screen 3" width="250" height="250"> 
 
-4. Now you'll be redirected to the application's main page. On clicking the User Timeline tab, you'll be able to see your feed. ![Screen 4](/screen4.png)![Screen 5](/screen5.png)
+4. Now you'll be redirected to the application's main page. On clicking the User Timeline tab, you'll be able to see your feed. 
+<img src="/screen4.png" alt="Screen 4" width="250" height="250"> 
+<img src="/screen5.png" alt="Screen 5" width="250" height="250"> 
 
-5. And on clicking the Home Timeline tab, you can see the tweets from people whom you follow as well as you can search for any particular id. ![Screen 6](/screen6.png)
+5. And on clicking the Home Timeline tab, you can see the tweets from people whom you follow as well as you can search for any particular id. <img src="/screen6.png" alt="Screen 6" width="250" height="250"> 
