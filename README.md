@@ -20,10 +20,10 @@ I dont check my twitter feed regularly. Which means i might miss on all the inte
 
 
 **Screenshots**
-1. The first screen that appears after the application is installed on your android device as shown below 
+1. The first screen that appears after the application is installed on your android device is as shown below 
 <img src="/screen1.png" alt="Screen 1" width="250" height="250"> 
 
-2. After clicking on the login button you'll be redirected to this screen 
+2. After clicking on the log in with Twitter button you'll be redirected to this screen 
 <img src="/screen2.png" alt="Screen 2" width="250" height="250"> 
 
 3. Click on the Connect button so that it authenicates as shown<br>
