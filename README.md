@@ -17,3 +17,7 @@ I dont check my twitter feed regularly. Which means i might miss on all the inte
 1. Clone the repository and import the project into the Android Studio.
 2. Build the application and connect your android device to your laptop.
 3. Run the application and you're good to go.
+
+
+**Screenshots**
+1. The first screen that appears after the application is installed on your android device is shown in the ![Screen 1](/screen1.png)
