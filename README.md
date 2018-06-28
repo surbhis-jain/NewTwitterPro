@@ -21,18 +21,18 @@ I dont check my twitter feed regularly. Which means i might miss on all the inte
 
 **Screenshots**
 1. The first screen that appears after the application is installed on your android device is as shown below 
-<img src="/screen1.png" alt="Screen 1" width="250" height="250"> 
+<img src="/screen1.png" alt="Screen 1" width="300" height="300"> 
 
 2. After clicking on the log in with Twitter button you'll be redirected to this screen 
-<img src="/screen2.png" alt="Screen 2" width="250" height="250"> 
+<img src="/screen2.png" alt="Screen 2" width="300" height="300"> 
 
 3. Click on the Connect button so that it authenicates as shown<br>
-<img src="/screen3.png" alt="Screen 3" width="250" height="250"> 
+<img src="/screen3.png" alt="Screen 3" width="300" height="300"> 
 
 4. Now you'll be redirected to the application's main page. On clicking the User Timeline tab, you'll be able to see your feed. 
-<img src="/screen4.png" alt="Screen 4" width="250" height="250"> 
+<img src="/screen4.png" alt="Screen 4" width="300" height="300"> 
 <br>
-<img src="/screen5.png" alt="Screen 5" width="250" height="250"> 
+<img src="/screen5.png" alt="Screen 5" width="300" height="300"> 
 
 5. And on clicking the Home Timeline tab, you can see the tweets from people whom you follow as well as you can search for any particular id. <br>
-<img src="/screen6.png" alt="Screen 6" width="250" height="250"> 
+<img src="/screen6.png" alt="Screen 6" width="300" height="300"> 
