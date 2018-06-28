@@ -10,7 +10,7 @@ I dont check my twitter feed regularly. Which means i might miss on all the inte
 
 **Pre requisties**
 1. An user must have an account in Twitter, if not sign up using the link provided [link to Twitter!](https://twitter.com/i/flow/signup?lang=en)
-2. You must have Android Studio installed on your laptop, if not download it using the link provided.[link to Android Studior!](https://developer.android.com/studio/)
+2. You must have Android Studio installed on your laptop, if not download it using the link provided.[link to Android Studio!](https://developer.android.com/studio/)
 
 
 **Steps**
